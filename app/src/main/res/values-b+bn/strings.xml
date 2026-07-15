@@ -148,7 +148,7 @@
     <string name="double_tap_to_seek_settings_des">সামনে বা পিছনের দিকে যেতে ডান বা বাম দিকে দুবার আলতো চাপুন</string>
     <string name="delete_file">ফাইল ডিলিট</string>
     <string name="subs_default_reset_toast">মান ডিফল্ট এ রিসেট করুন</string>
-    <string name="updates_settings_des">স্টার্টআপে নতুন আপডেটের জন্য স্বয়ংক্রিয়ভাবে অনুসন্ধান করুন</string>
+    <string name="updates_settings_des">স্টার্টআপে নতুন আপডেটের জন্য স্বয়ংক্রিয়ভাবে অনুসন্ধান করুন যোগ।</string>
     <string name="movies_singular">সিনেমা</string>
     <string name="show_fillers_settings">এনিমে এর ফিলার পর্ব দেখায়</string>
     <string name="tv_series">টিভি সিরিজ</string>
@@ -354,4 +354,18 @@
     <string name="speech_recognition_unavailable">স্পিচ রিকগনিশন উপলব্ধ নেই</string>
     <string name="begin_speaking">কথা বলা শুরু করুন…</string>
     <string name="download_queue">ডাউনলোড তালিকা</string>
+    <string name="play_full_series_button">সম্পূর্ণ সিরিজ প্লে করুন</string>
+    <string name="torrent_info">এই ভিডিওটি একটি টরেন্ট, অর্থাৎ আপনার ভিডিও অ্যাক্টিভিটি ট্র্যাক করা সম্ভব।\nএগোনোর আগে টরেন্টিং সম্পর্কে ভালোভাবে বুঝে নিন।</string>
+    <string name="downloads_delete_select">ডিলিট করার জন্য আইটেম সিলেক্ট করুন</string>
+    <string name="downloads_empty">বর্তমানে কোনো ডাউনলোড নেই।</string>
+    <string name="queue_empty_message">বর্তমানে কোনো ডাউনলোড কিউতে নেই।</string>
+    <string name="offline_file">অফলাইনে দেখার জন্য উপলব্ধ</string>
+    <string name="select_all">সব সিলেক্ট করুন</string>
+    <string name="deselect_all">সব ডিসিলেক্ট করুন</string>
+    <string name="open_local_video">লোকাল ভিডিও খুলুন</string>
+    <string name="extra_brightness_settings">অতিরিক্ত ব্রাইটনেস</string>
+    <string name="extra_brightness_settings_des">ডিসপ্লে ব্রাইটনেস ১০০% ছাড়িয়ে গেলে ব্রাইটনেস ফিল্টার চালু করুন</string>
+    <string name="search_suggestions">সার্চ সাজেশন</string>
+    <string name="search_suggestions_des">টাইপ করার সময় সার্চ সাজেশন দেখান</string>
+    <string name="clear_suggestions">সাজেশন পরিষ্কার করুন</string>
 </resources>
